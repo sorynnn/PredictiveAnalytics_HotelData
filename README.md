@@ -1,6 +1,8 @@
 # XGBoost_HotelData
 Predictive Analytics project utilizing parallel processing to perform XGBoost.
 
+Warning: Even with parallel processing, a computer with 8 cores will still require overnight runtimes.
+
 
 Dataset: 113,421 rows and 35 columns
 
