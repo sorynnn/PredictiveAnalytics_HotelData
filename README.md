@@ -1,9 +1,15 @@
 # XGBoost_HotelData
-Predictive Analytics project utilizing parallel processing to perform XGBoost.
+Predictive Analytics project utilizing parallel processing to perform XGBoost. Preformed in R.
 
 Warning: Even with parallel processing, a computer with 8 cores will still require overnight runtimes.
 
 Files included:
+
+4 PredAna UPDATED.pdf -Powerpoint about our findings
+
+OceanCrestdata.csv -Raw Dataset
+
+XGBoost_OceanCrest.R -R Code
 
 
 Dataset: 113,421 rows and 35 columns
