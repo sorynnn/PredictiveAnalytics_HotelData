@@ -139,7 +139,7 @@ Standardization -lead_time, adults, adr, days_in_waiting_list
 standardized scales in order for better XGBoost predictions
 
 
-
+Usage of SMOTE to rebalance the data and avoid bias.
 
 
 
