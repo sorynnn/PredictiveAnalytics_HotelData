@@ -1,4 +1,4 @@
-# XGBoost_HotelData
+# Predictive Analytics HotelData
 Predictive Analytics project utilizing parallel processing to perform XGBoost. Preformed in R.
 
 Warning: Even with parallel processing, a computer with 8 cores will still require overnight runtimes.
