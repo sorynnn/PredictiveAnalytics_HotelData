@@ -9,7 +9,11 @@ Files included:
 
 OceanCrestdata.csv -Raw Dataset
 
-XGBoost_OceanCrest.R -R Code
+XGBoost_OceanCrest.R -R Code for XGBoost model
+
+RandomForest_OceanCrest.R -R Code for Random Forest model
+
+Lasso_OceanCrest.rds -R Code for Logistic regression using LASSO model
 
 
 Dataset: 113,421 rows and 35 columns
