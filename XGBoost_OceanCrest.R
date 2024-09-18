@@ -197,7 +197,7 @@ shap <- shap.prep(model_gbm$finalModel, X_train = Xdata)
 shap.plot.summary.wrap1(model_gbm$finalModel, X = Xdata, top_n = 10)
 
 #example partial dependence plot
-##Change this shit
+
 p <- shap.plot.dependence(
   shap, 
   x = "TRAN_AMT", #top val in shapp
